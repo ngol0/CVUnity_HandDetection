@@ -13,7 +13,7 @@ A simple, learning project that uses OpenCV to detect hand in webcam and then se
 - `opencv`, `cvzone` 
 
 ## Running the project
-- Once you've cloned the project, create a virtual env (venv) and copy/paste the script `main.py` into the environment. 
+- Once you've cloned the project, create a virtual env (venv) and copy/paste the script `main.py` into the venv folder. 
 - Run `main.py` and open Unity project and Play the scene, webcam will start and hand will show in Unity scene.
 
 ## Attribute
