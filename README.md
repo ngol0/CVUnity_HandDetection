@@ -1,6 +1,6 @@
 # 3D Hand Tracking in Virtual Environment (OpenCV + Unity)
 
-<img src="https://github.com/ngol0/CVUnity_HandDetection/blob/master/screenshot.png" width="900" title="pic 2">
+<img src="https://github.com/ngol0/CVUnity_HandDetection/blob/main/screenshot.png" width="900" title="pic 2">
 
 ## Introduction
 A simple, learning project that uses OpenCV to detect hand in webcame and then send the data to Unity to display & interact in the virtual environment.
