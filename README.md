@@ -6,8 +6,8 @@
 A simple, learning project that uses OpenCV to detect hand in webcam and then send the hand movement's data to Unity to display & interact in the virtual environment.
 
 ## Features
-* Ray Tracing Fundamentals: Implements essential ray tracing techniques, including ray-object intersection, shadows, and reflections.
-* Realistic Lighting: Captures realistic light behavior to illuminate scenes beautifully, featuring emissive material to act as a light source.
+* OpenCV for hand detection.
+* Integration of computer vision into Unity environment.
 
 ## Package requirements
 - `opencv`, `cvzone` 
